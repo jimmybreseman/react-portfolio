@@ -8,7 +8,7 @@ class About extends Component {
          var profilepic = "images/" + this.props.data.image;
          var bio = this.props.data.bio;
          var street = this.props.data.address.street;
-         var city = this.props.data.address.city;
+         var city2 = this.props.data.address.city2;
          var state = this.props.data.address.state;
          var zip = this.props.data.address.zip;
          var phone = this.props.data.phone;
@@ -32,7 +32,7 @@ class About extends Component {
                         <p className="address">
                            <span>{name}</span><br />
                            <span>{street}<br />
-                              {city} {state}, {zip}
+                              {city2} {state}, {zip}
                            </span><br />
                            <span>{phone}</span><br />
                            <span>{email}</span>
