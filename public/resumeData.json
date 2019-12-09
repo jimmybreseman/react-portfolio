@@ -4,7 +4,7 @@
     "occupation": "Web Developer",
     "description": "I'm a passionate web developer from Chicago who specializes in front-end user interfaces",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "breseman9@gmail.com",
     "phone": "779-227-4137",
@@ -39,14 +39,14 @@
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "http://instagram.com/jimmybreseman",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
         "url": "http://github.com/jimmybreseman",
         "className": "fa fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/jimmybreseman",
+        "className": "fa fa-instagram"
       },
       {
         "name": "skype",
@@ -62,7 +62,7 @@
         "school": "Northwestern University",
         "degree": "Full Stack Web Development Bootcamp",
         "graduated": "November 2019",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": ""
       }
     ],
     "work": [
