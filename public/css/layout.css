@@ -25,11 +25,15 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat top center;
+   background: linear-gradient(rgba(7, 7, 7, 0.5), rgba(5, 5, 5, 0.5)), url(../images/header-background.jpg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
    overflow: hidden;
+}
+
+header:after {
+   opacity: .5;
 }
 
 /* vertically center banner section */
@@ -193,6 +197,10 @@ ul#nav li.current a { color: burlywood; }
 #about p {
    line-height: 30px;
    color: #7A7A7A;
+}
+
+#about :hover {
+   color:#ffffff;
 }
 #about .profile-pic {
    position: relative;
@@ -626,7 +634,7 @@ call-to-action .button {
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
-
+   padding-top: 50%;
    position: relative;
    min-height: 200px;
    width: 100%;
@@ -903,7 +911,7 @@ call-to-action .button {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #303030;
+   color: #ffffff;
    font-size: 14px;
    text-align: center;
    position: relative;

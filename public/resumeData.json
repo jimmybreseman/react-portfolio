@@ -2,10 +2,10 @@
   "main": {
     "name": "Jimmy Breseman",
     "occupation": "Web Developer",
-    "description": "I'm a passionate web developer from Chicago who specializes in front-end user interfaces",
+    "description": "I'm a passionate developer who is educated in full stack web developement and specializes in front-end user interfaces",
     "image": "profilepic.jpg",
     "bio": "",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage": "Contact.",
     "email": "breseman9@gmail.com",
     "phone": "779-227-4137",
     "address": {
@@ -19,21 +19,6 @@
     "resumedownload": "http://jimmybreseman.com",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/jimmy.breseman.7",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
-        "name": "google-plus",
-        "url": "http://googleplus.com/breseman9",
-        "className": "fa fa-google-plus"
-      },
-      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/jimmy-breseman-4361b2167/",
         "className": "fa fa-linkedin"
@@ -42,21 +27,11 @@
         "name": "github",
         "url": "http://github.com/jimmybreseman",
         "className": "fa fa-github"
-      },
-      {
-        "name": "instagram",
-        "url": "http://instagram.com/jimmybreseman",
-        "className": "fa fa-instagram"
-      },
-      {
-        "name": "skype",
-        "url": "http://skype.com",
-        "className": "fa fa-skype"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "",
     "education": [
       {
         "school": "Northwestern University",
@@ -67,10 +42,10 @@
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
       }
     ],
     "skills": [
@@ -79,28 +54,28 @@
         "level": "75%"
       },
       {
-        "name": "Illustrator",
+        "name": "Javascript",
         "level": "25%"
       },
       {
         "name": "ReactJs",
-        "level": "50%"
+        "level": "20%"
       },
       {
         "name": "CSS",
-        "level": "50%"
+        "level": "60%"
       },
       {
         "name": "HTML5",
         "level": "80%"
       },
       {
-        "name": "VueJs",
-        "level": "50%"
+        "name": "Node",
+        "level": "40%"
       },
       {
         "name": "MongoDB",
-        "level": "50%"
+        "level": "40%"
       }
     ]
   },
@@ -133,8 +108,7 @@
         "user": "Barack Obama"
       },
       {
-        "text": "Jimmy Breseman must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. You should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": ""
       }
     ]
   }

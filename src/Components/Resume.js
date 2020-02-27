@@ -40,20 +40,9 @@ class Resume extends Component {
         </div>
 
 
-        {/* <div className="row work">
-
-         <div className="three columns header-col">
-            <h1><span>Work</span></h1>
-         </div>
-
-         <div className="nine columns main-col">
-          {work}
-        </div>
-    </div> */}
 
 
-
-        {/* <div className="row skill">
+        <div className="row skill">
 
          <div className="three columns header-col">
             <h1><span>Skills</span></h1>
@@ -70,7 +59,7 @@ class Resume extends Component {
 					</ul>
 				</div>
 			</div>
-      </div> */}
+      </div>
       </section>
     );
   }
