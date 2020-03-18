@@ -112,7 +112,7 @@
 	   width: 48px;
 		height: 48px;
 		text-align: left;
-		background-color: burlywood;
+		background-color: rgb(87, 57, 33);
 		position: relative;
       border: none;
       float: right;
@@ -160,7 +160,7 @@
 	#nav-wrap:target > ul#nav	{
 	   display: block;
       padding: 30px 20px 48px 20px;
-      background: #1f2024;
+      background: rgb(19,20,17);
       margin: 0 30px;
       clear: both;
    }

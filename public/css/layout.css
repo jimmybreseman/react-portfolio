@@ -69,13 +69,13 @@ header .banner-text h3 {
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-   color: burlywood;
+   color:whitesmoke;
 }
 header .banner-text hr {
    width: 60%;
    margin: 18px auto 24px auto;
-   border-color: #2F2D2E;
-   border-color: rgba(150, 150, 150, .1);
+   border-color: whitesmoke;
+   border-color: whitesmoke;
 }
 
 /* header social links */
@@ -174,7 +174,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: burlywood; }
+ul#nav li.current a { color:rgb(94, 165, 89); }
 
 
 /* c. About Section */
@@ -217,10 +217,11 @@ ul#nav li.current a { color: burlywood; }
 #about .download .button {
    margin-top: 6px;
    background: #444;
+   color: #11ABB0;
 }
 #about .download .button:hover {
-   background: burlywood;
-   color: #2B2B2B;
+   background: #11ABB0;
+   color: whitesmoke;
 }
 #about .download .button i {
    margin-right: 15px;
@@ -237,7 +238,7 @@ ul#nav li.current a { color: burlywood; }
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #11ABB0; }
+#resume a, #resume a:visited  { color: whitesmoke; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
@@ -246,7 +247,7 @@ ul#nav li.current a { color: burlywood; }
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid burlywood;
+   border-bottom: 3px solid rgb(87, 57, 33);
    padding-bottom: 6px;
 }
 #resume h3 {
@@ -917,7 +918,7 @@ footer {
    position: relative;
 }
 
-footer a, footer a:visited { color: #525252; }
+footer a, footer a:visited { color: whitesmoke; }
 footer a:hover, footer a:focus { color: #fff; }
 
 /* copyright */
@@ -938,7 +939,7 @@ footer .copyright li:before {
     content: "\2022";
     padding-left: 10px;
     padding-right: 10px;
-    color: #095153;
+    color: whitesmoke;
 }
 footer .copyright  li:first-child:before {
     display: none;
@@ -986,4 +987,4 @@ footer .social-links li:first-child { margin-left: 0; }
    line-height: 60px;
  	border-radius: 100%;
 }
-#go-top a:hover { background-color: #0F9095; }
+#go-top a:hover { background-color: #525252; }

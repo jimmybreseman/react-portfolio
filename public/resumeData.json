@@ -50,24 +50,24 @@
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "75%"
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Css",
+        "level": "50%"
+      },
+      {
+        "name": "Scss",
+        "level": "40%"
       },
       {
         "name": "Javascript",
-        "level": "25%"
+        "level": "40%"
       },
       {
         "name": "ReactJs",
-        "level": "20%"
-      },
-      {
-        "name": "CSS",
-        "level": "60%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
+        "level": "40%"
       },
       {
         "name": "Node",
@@ -75,6 +75,14 @@
       },
       {
         "name": "MongoDB",
+        "level": "40%"
+      },
+      {
+        "name": "Json",
+        "level": "40%"
+      },
+      {
+        "name": "JQuery",
         "level": "40%"
       }
     ]
@@ -84,19 +92,19 @@
       {
         "title": "Racr",
         "category": "Website built for runners to track runs and challenge friends!",
-        "image": "canadian-wanderlust.jpg",
+        "image":"images/Racr.jpg",
         "url": "https://github.com/MissWibbon/racr"
       },
       {
         "title": "Hell's Kitchen Trivia",
         "category": "Fun web based game application that asks you about recipes and has Gordon Ramsey judge your knowledge!",
-        "image": "fury-fighting-gear.jpg",
+        "image": "images/Gordan.jpg",
         "url": "https://github.com/MissWibbon/trumpeteers"
       },
       {
         "title": "Fantasy Basketball Stats",
         "category": "Web based application built to look up your favorite players stats",
-        "image": "original-thai-food.jpg",
+        "image": "images/Hooper.jpg",
         "url": "https://github.com/tyfal/Paradigm-X"
       }
     ]
@@ -104,8 +112,7 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Let me tell your something. I’m from Chicago. I don’t break.",
-        "user": "Barack Obama"
+        "text": ""
       },
       {
         "text": ""
